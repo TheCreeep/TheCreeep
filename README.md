@@ -1,18 +1,18 @@
-<h1 style="text-align:center;">🙍‍♂️ About Me</h1>
+<h1 align="center">🙍‍♂️ About Me</h1>
 
-<div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=FFFFFF&width=700&lines=%F0%9F%91%8B+Hey+I'm+L%C3%A9o+!;%E2%8C%A8%EF%B8%8F+I'm+a+Full-Stack+Developer;%F0%9F%8F%A1+Currently+working+from+home+for+Yalgow;%F0%9F%95%92+Available+on+September+20th+2022">
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=B1D1D9&width=700&lines=%F0%9F%91%8B+Hey+I'm+L%C3%A9o+!;%E2%8C%A8%EF%B8%8F+I'm+a+Full-Stack+Developer;%F0%9F%8F%A1+Currently+working+from+home+for+Yalgow;%F0%9F%95%92+Available+on+September+20th+2022">
 </div>
 
 <div style="margin:3em 0;gap:3em;">
     <img src="./animation.gif" width="400" align="left"></img>
     <br></br>
-    <div align="center" style>
-        <font align="center" size="5">🏫 Apprenticeship at 3WA since September 2021</font>
+    <div align="center" >
+        <p align="center" style="font-size:18px; font-weight:bold;">🏫 Apprenticeship at 3WA since September 2021</p>
         <br></br>
-        <font align="center" size="5">📙 Currently Practicing React</font>
+        <p align="center" style="font-size:18px; font-weight:bold;">📙 Currently Practicing React</p>
         <br></br>
-        <font align="center" size="5">📍 Lives in Grenoble, France</font>
+        <p align="center" style="font-size:18px; font-weight:bold;">📍 Lives in Grenoble, France</p>
     </div>
 </div>
 <br></br>
