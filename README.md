@@ -1,4 +1,4 @@
-<h1 style="text-align:center;color:#17D73E">🙍‍♂️ About Me</h1>
+<h1 style="text-align:center;">🙍‍♂️ About Me</h1>
 
 <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=17D73E&width=700&lines=%F0%9F%91%8B+Hey+I'm+L%C3%A9o+!;%E2%8C%A8%EF%B8%8F+I'm+a+Full-Stack+Developer;%F0%9F%8F%A1+Currently+working+from+home+for+Yalgow;%F0%9F%95%92+Available+on+September+20th+2022">
@@ -9,16 +9,14 @@
 <div style="display:flex;margin:3em 0;gap:3em;justify-content:space-between;">
     <img src="./animation.gif" style="width:40%;"></img>
     <div>
-        <h2 style="color:#17D73E">🏫 Apprenticeship at 3WA since September 2021</h2>
-        <br></br>
-        <h2 style="color:#17D73E">📙 Currently Practicing React</h2>
-        <br></br>
-        <h2 style="color:#17D73E">📍 Lives in Grenoble, France</h2>
+        <h2>🏫 Apprenticeship at 3WA since September 2021</h2>
+        <h2>📙 Currently Practicing React</h2>
+        <h2>📍 Lives in Grenoble, France</h2>
     </div>
 </div>
 
 <div>
-    <h1 style="text-align:center;color:#17D73E">💻 What I use</h1>
+    <h1 style="text-align:center;">💻 What I use</h1>
         <div align="center">
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -53,7 +51,7 @@
 <br></br>
 
 <div>
-    <h1 style="text-align:center;color:#17D73E">🎮 I also use these</h1>
+    <h1 style="text-align:center;">🎮 I also use these</h1>
     <div align="center">
         <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>      
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>        
@@ -78,7 +76,7 @@
 
 <br></br>
 
-<h1 style="text-align:center;color:#17D73E">📈 Github Statistics</h1>
+<h1 style="text-align:center;">📈 Github Statistics</h1>
 
 
 <div style="display:flex;justify-content:space-between;">
