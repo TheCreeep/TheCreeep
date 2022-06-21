@@ -5,13 +5,15 @@
 </div>
 
 <div>
-    <img src="./animation.gif" width="400" align="left"></img>
+    <img src="./animation.gif" width="480" align="left"></img>
     <div align="center" >
         <p align="center">🏫 Apprenticeship at 3WA since September 2021</p>
         <br></br>
-        <p align="center">📙 Currently Practicing React</p>
+        <p align="center">📙 Would like to Practice React</p>
         <br></br>
         <p align="center">📍 Lives in Grenoble, France</p>
+        <br></br>
+        <p align="center">🍔 Food Lover</p>
     </div>
 </div>
 <br></br>
