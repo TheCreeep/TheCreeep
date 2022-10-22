@@ -1,7 +1,7 @@
 <h1 align="center">🙍‍♂️ About Me</h1>
 
 <div align="right">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C9D1D9&width=700&lines=%F0%9F%91%8B+Hey+I'm+L%C3%A9o%20!%20(Also%20known%20as%20Creep%20!);%E2%8C%A8%EF%B8%8F+I'm+a+Full-Stack+Developer;%F0%9F%8F%A1+Currently+working+from+home+for+Yalgow;%F0%9F%95%92+Available+on+September+20th+2022">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C9D1D9&width=700&lines=%F0%9F%91%8B+Hey+I'm+L%C3%A9o%20!%20(Also%20known%20as%20Creep%20!);%E2%8C%A8%EF%B8%8F+I'm+a+Full-Stack+Developer;%F0%9F%8F%A1+Currently+working+from+home+for+Altermap;">
 </div>
 
 <div >
@@ -76,7 +76,7 @@
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)"/>
     </div>
 </div>
-
+ 
 <br></br>
 
 <h1 align="center">📈 Github Statistics</h1>
