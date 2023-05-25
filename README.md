@@ -7,9 +7,9 @@
 <div >
     <img src="./animation.gif" width="480" align="left"></img>
     <div align="center" >
-        <p align="center">🏫 Apprenticeship at 3WA since September 2021</p>
+        <p align="center">🏫 Learning IA at 3WA</p>
         <br></br>
-        <p align="center">📙 Would like to Practice React</p>
+        <p align="center">📙 Working on some projects</p>
         <br></br>
         <p align="center">📍 Lives in Grenoble, France</p>
         <br></br>
