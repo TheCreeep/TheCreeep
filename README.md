@@ -88,14 +88,10 @@
 
 <h1 align="center">📈 Github Statistics</h1>
 
-<div style="display:flex;justify-content:space-between;">
-
-<img  width="49%"  src="https://github-readme-stats.vercel.app/api?username=TheCreeep&custom_title=Creep's+profile&text_color=28FF54FF&title_color=28FF54FF&bg_color=3FC0554D&show_icons=true&theme=blueberry&hide_border=true" />
-
-<img  width="49%"  src="https://github-readme-streak-stats.herokuapp.com?user=TheCreeep&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D&background=3FC0554D&stroke=28FF54&ring=28FF54&dates=28FF54&currStreakNum=28FF54&hide_border=true&sideNums=28FF54&currStreakLabel=28FF54&sideLabels=28FF54"/>
-
+<div align="center">
+        <img height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreeep&theme=material-palenight"/>
+        <img height="260px" src="https://github-readme-streak-stats.herokuapp.com?user=TheCreeep&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D&background=292D3E&stroke=28FF54&ring=28FF54&dates=28FF54&currStreakNum=28FF54&hide_border=true&sideNums=28FF54&currStreakLabel=28FF54&sideLabels=28FF54"/>
 </div>
 
 <br>
-
-<img  width="100%"  src="https://github-readme-activity-graph.vercel.app/graph?username=TheCreeep&custom_title=Creep%27s%20Activity%20Graph&color=28FF54FF&bg_color=3FC0554D&hide_border=true&line=28FF54FF&point=add7ff"/>
+<img  width="100%"  src="https://github-readme-activity-graph.vercel.app/graph?username=TheCreeep&custom_title=Creep%27s%20Activity%20Graph&color=28FF54FF&bg_color=292D3E&hide_border=true&line=28FF54FF&point=add7ff"/>
