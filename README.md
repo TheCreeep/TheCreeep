@@ -89,8 +89,8 @@
 <h1 align="center">📈 Github Statistics</h1>
 
 <div align="center">
-        <img height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreeep&theme=material-palenight"/>
-        <img height="260px" src="https://github-readme-streak-stats.herokuapp.com?user=TheCreeep&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D&background=292D3E&stroke=28FF54&ring=28FF54&dates=28FF54&currStreakNum=28FF54&hide_border=true&sideNums=28FF54&currStreakLabel=28FF54&sideLabels=28FF54"/>
+        <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreeep&theme=material-palenight"/>
+        <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=TheCreeep&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D&background=292D3E&stroke=28FF54&ring=28FF54&dates=28FF54&currStreakNum=28FF54&hide_border=true&sideNums=28FF54&currStreakLabel=28FF54&sideLabels=28FF54"/>
 </div>
 
 <br>
