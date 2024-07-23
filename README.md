@@ -11,7 +11,7 @@
         <br></br>
         <p align="center">📍 Lives in Grenoble, France</p>
         <br></br>
-        <p align="center">💚 Vue Lover</p>
+        <p align="center">💚 Vue/Nuxt Lover</p>
     </div>
 </div>
 <br></br>
