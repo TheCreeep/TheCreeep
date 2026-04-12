@@ -1,15 +1,15 @@
 <h1 align="center">🙍‍♂️ About Me</h1>
 
 <div align="right">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C9D1D9&width=700&lines=%F0%9F%91%8B+Hey+I'm+L%C3%A9o%20!%20;%E2%8C%A8%EF%B8%8F+I'm+a+Full-Stack+Developer;%F0%9F%8F%A1+Currently+Full+Stack+Developer+for+Addeus;"></div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C9D1D9&width=700&lines=%F0%9F%91%8B+Hey+I'm+L%C3%A9o%20!%20;%E2%8C%A8%EF%B8%8F+I'm+a+Full-Stack+Developer;%F0%9F%8F%A1+Currently+Full+Stack+Developer;"></div>
 <div >
     <img src="./animation.gif" width="480" align="left"></img>
     <div align="center" >
         <p align="center">🏠 Loves to work in Remote</p>
         <br></br>
-        <p align="center">📙 Currently Full Stack Dev for Addeus </p>
+        <p align="center">📙 Currently Full Stack Dev </p>
         <br></br>
-        <p align="center">📍 Lives in Grenoble, France</p>
+        <p align="center">📍 France</p>
         <br></br>
         <p align="center">💚 Vue/Nuxt Lover</p>
     </div>
